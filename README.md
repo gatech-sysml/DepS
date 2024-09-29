@@ -1,6 +1,6 @@
 # DϵpS: Delayed ϵ-Shrinking for Faster Once-For-All Training [[arxiv]](https://arxiv.org/abs/2407.06167)
 
-![](figures/intro.pdf)
+![](figures/intro.png)
 
 
 ```BibTex
