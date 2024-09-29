@@ -3,7 +3,7 @@
 ```BibTex
 @misc{deps2024,
       title={D{\epsilon}pS: Delayed {\epsilon}-Shrinking for Faster Once-For-All Training},
-      author={Aditya Annavajjala<sup>*</sup> and Alind Khare<sup>*</sup> and Animesh Agrawal and Igor Fedorov and Hugo Latapie and Myungjin Lee and Alexey Tumanov},
+      author={Aditya Annavajjala^{*} and Alind Khare^{*} and Animesh Agrawal and Igor Fedorov and Hugo Latapie and Myungjin Lee and Alexey Tumanov},
       year={2024},
       eprint={2407.06167},
       archivePrefix={arXiv},
