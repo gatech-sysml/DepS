@@ -1,12 +1,9 @@
 # DϵpS: Delayed ϵ-Shrinking for Faster Once-For-All Training [[arxiv]](https://arxiv.org/abs/2407.06167)
 
-![](figures/intro.png)
-
-
 ```BibTex
 @misc{deps2024,
       title={D{\epsilon}pS: Delayed {\epsilon}-Shrinking for Faster Once-For-All Training},
-      author={Aditya Annavajjala and Alind Khare and Animesh Agrawal and Igor Fedorov and Hugo Latapie and Myungjin Lee and Alexey Tumanov},
+      author={Aditya Annavajjala<sup>*</sup> and Alind Khare<sup>*</sup> and Animesh Agrawal and Igor Fedorov and Hugo Latapie and Myungjin Lee and Alexey Tumanov},
       year={2024},
       eprint={2407.06167},
       archivePrefix={arXiv},
@@ -14,6 +11,9 @@
       url={https://arxiv.org/abs/2407.06167},
 }
 ```
+
+## Overview
+![](figures/intro.png)
 
 ## Reduced training cost and improved performance
 - DϵpS significantly reduces training cost while improving performance of subnetworks in the lower FLOPs range!
@@ -68,3 +68,4 @@ train_net.py --task teacher --exp_id RES5_Proxyless_Largest_16GPU \
 * Horovod 0.19.2
 
 Check setup/ for environment setup instructions
+
