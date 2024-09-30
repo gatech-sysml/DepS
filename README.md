@@ -1,16 +1,17 @@
 # DϵpS: Delayed ϵ-Shrinking for Faster Once-For-All Training [[arxiv]](https://arxiv.org/abs/2407.06167)
 
 ```BibTex
-@misc{deps2024,
+@inproceedings{deps-eccv2024,
       title={D{\epsilon}pS: Delayed {\epsilon}-Shrinking for Faster Once-For-All Training},
       author={Aditya Annavajjala^{*} and Alind Khare^{*} and Animesh Agrawal and Igor Fedorov and Hugo Latapie and Myungjin Lee and Alexey Tumanov},
-      year={2024},
-      eprint={2407.06167},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
+      booktitle = {Proc. of the 18th European Conference on Computer Vision},
+      series = {ECCV '24},
+      month = {August},
+      year = {2024},
       url={https://arxiv.org/abs/2407.06167},
 }
 ```
+
 
 ## Overview
 ![](figures/intro.png)
